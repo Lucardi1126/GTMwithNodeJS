@@ -1,0 +1,25 @@
+{
+  "name": "gtm",
+  "version": "1.0.0",
+  "description": "Proyecto para organizar y gestionar torneos gamer",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "Hector & Jordan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucardi1126/PetFinderNodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lucardi1126/PetFinderNodeJS/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "homepage": "https://github.com/Lucardi1126/PetFinderNodeJS#readme"
+}
